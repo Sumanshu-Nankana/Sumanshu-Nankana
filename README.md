@@ -9,8 +9,9 @@
 
 [Read my blogs](https://sumanshunankana.hashnode.dev/)
 
-### Languages and Tools
-Python | VS Code | Jyputer Notebook
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanshu-Nankana&layout=compact)
+
 
 ![Sumanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanshu-Nankana&show_icons=true&theme=radical)
 
