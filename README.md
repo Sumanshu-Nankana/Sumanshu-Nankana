@@ -5,6 +5,10 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I'm a Karate Player and I love to teach Self-Defence.
 
+
+![Sumanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanshu-Nankana&show_icons=true&theme=radical)
+
+
 <!--
 **Sumanshu-Nankana/Sumanshu-Nankana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
