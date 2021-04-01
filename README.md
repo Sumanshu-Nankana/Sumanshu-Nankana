@@ -1,6 +1,6 @@
 ### Hola 👋 I'm Sumanshu Nankana !
 
-- 🌱 I’m currently learning Python, Machine Learning.
+- 🌱 I’m currently learning Python, Machine Learning, Cloud Computing
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I'm a Karate Player and I love to teach Self-Defence.
 
