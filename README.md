@@ -5,6 +5,7 @@
 - ⚡ Fun fact: I'm a Karate Player and I love to teach Self-Defence.
 - 🔭 Google Associate Cloud Engineer Certified.
 - 🔭 Google Professional Data Engineer Certified.
+- - 🔭 AZ-900 and AI-900 Certified.
 
 ### Connect With Me
 [Twitter](https://twitter.com/sumanshunankana) | [YouTube](https://www.youtube.com/channel/UCjNw0PpE3gKX_GCKMkT2BUA) | [Linkedin](https://www.linkedin.com/in/sumanshu-nankana-483b483b/)
